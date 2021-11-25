@@ -1,6 +1,5 @@
 """An exercise in remainders and boolean logic."""
 
-__author__ = "730398410"
 
 
 # Begin your solution here...
