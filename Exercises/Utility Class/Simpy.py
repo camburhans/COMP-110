@@ -4,7 +4,6 @@ from __future__ import annotations
 
 from typing import Union
 
-__author__ = "730398410"
 
 
 class Simpy:
