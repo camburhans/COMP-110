@@ -1,6 +1,5 @@
 """Utility functions for wrangling data."""
 
-__author__ = "730398410"
 
 
 from csv import DictReader
